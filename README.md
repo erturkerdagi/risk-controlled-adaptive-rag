@@ -88,9 +88,6 @@ MuSiQue), which is the pool split into calibration and test sets:
 | Calibration | α ∈ {0.10, 0.15, 0.20, 0.30, 0.40, 0.50}, δ = 0.10, μ = 0.30, 30 × 30 threshold grid, ordering fraction 0.3 |
 | Evaluation | 50% of each pair trains the scorers; the other half is split 300 times into equal calibration and test sets |
 
-## Citation
-
-See `CITATION.cff`. The entry will be updated with the publication details.
 
 ## License
 
