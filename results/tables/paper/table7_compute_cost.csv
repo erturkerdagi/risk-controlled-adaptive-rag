@@ -1,0 +1,6 @@
+model,datasets,questions,batch,s_min,s_max,gpu_hours,s_per_question
+Qwen2.5-3B-Instruct,3,9000,32,0.0846,0.1103,0.24,0.096
+Qwen2.5-7B-Instruct,7,20417,32,0.1145,0.136,0.72,0.128
+Llama-3.1-8B-Instruct,7,20417,32,0.1446,0.1886,0.96,0.169
+Mistral-7B-Instruct-v0.3,7,20417,32,0.2069,0.228,1.21,0.214
+Qwen2.5-14B-Instruct,3,9000,16,0.2386,0.2732,0.63,0.253

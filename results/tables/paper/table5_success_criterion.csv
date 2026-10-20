@@ -1,0 +1,5 @@
+model,alpha,coverage_proposed,coverage_always_rag_ca,coverage_ratio,saving_pct,violation,criterion_met
+Qwen2.5-7B-Instruct,0.2,0.675,0.53,1.27,30.0,0.06,True
+Qwen2.5-7B-Instruct,0.3,0.85,0.846,1.0,46.3,0.047,True
+Llama-3.1-8B-Instruct,0.2,0.768,0.642,1.2,48.3,0.05,True
+Llama-3.1-8B-Instruct,0.3,0.915,0.919,1.0,66.4,0.063,True

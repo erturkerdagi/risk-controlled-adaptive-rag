@@ -1,0 +1,28 @@
+model,dataset,closed_book_acc,coverage_always_rag_ca,coverage_best_gate,best_gate,coverage_proposed,retrieval_proposed,saving_pct,violation_proposed
+Qwen2.5-7B-Instruct,triviaqa,0.47,0.846,0.812,UE-ent,0.85,0.537,46.3,0.047
+Qwen2.5-7B-Instruct,nq,0.22,0.034,0.027,UE-ent,0.22,0.972,2.8,0.047
+Qwen2.5-7B-Instruct,popqa,0.18,0.007,0.079,Probe,0.364,0.884,11.6,0.057
+Qwen2.5-7B-Instruct,squad,0.16,0.03,0.027,XR,0.358,0.972,2.8,0.05
+Qwen2.5-7B-Instruct,hotpotqa,0.2,0.0,0.018,Probe,0.096,0.975,2.5,0.043
+Qwen2.5-7B-Instruct,2wikimultihopqa,0.25,0.0,0.0,,0.012,0.999,0.1,0.04
+Qwen2.5-7B-Instruct,musique,0.04,0.0,0.0,,0.0,1.0,0.0,0.0
+Llama-3.1-8B-Instruct,triviaqa,0.61,0.919,0.913,UE-ent,0.915,0.336,66.4,0.063
+Llama-3.1-8B-Instruct,nq,0.33,0.11,0.085,UE margin,0.218,0.97,3.0,0.047
+Llama-3.1-8B-Instruct,popqa,0.27,0.072,0.257,Probe,0.45,0.774,22.6,0.053
+Llama-3.1-8B-Instruct,squad,0.18,0.177,0.157,Probe,0.403,0.975,2.5,0.033
+Llama-3.1-8B-Instruct,hotpotqa,0.23,0.0,0.002,UE margin,0.052,0.988,1.2,0.05
+Llama-3.1-8B-Instruct,2wikimultihopqa,0.29,0.0,0.006,Probe,0.097,0.948,5.2,0.053
+Llama-3.1-8B-Instruct,musique,0.05,0.0,0.0,,0.0,1.0,0.0,0.0
+Mistral-7B-Instruct-v0.3,triviaqa,0.62,0.926,0.899,UE-ent,0.927,0.284,71.6,0.04
+Mistral-7B-Instruct-v0.3,nq,0.32,0.029,0.027,UE margin,0.212,0.964,3.6,0.03
+Mistral-7B-Instruct-v0.3,popqa,0.28,0.05,0.223,Probe,0.428,0.809,19.1,0.067
+Mistral-7B-Instruct-v0.3,squad,0.18,0.085,0.074,UE margin,0.172,0.989,1.1,0.03
+Mistral-7B-Instruct-v0.3,hotpotqa,0.27,0.0,0.003,Probe,0.051,0.99,1.0,0.043
+Mistral-7B-Instruct-v0.3,2wikimultihopqa,0.35,0.0,0.183,Probe,0.375,0.774,22.6,0.027
+Mistral-7B-Instruct-v0.3,musique,0.08,0.0,0.0,Probe,0.0,1.0,0.0,0.003
+Qwen2.5-3B-Instruct,triviaqa,0.37,0.776,0.703,UE-ent,0.789,0.745,25.5,0.033
+Qwen2.5-3B-Instruct,nq,0.18,0.049,0.039,Probe,0.16,0.995,0.5,0.043
+Qwen2.5-3B-Instruct,popqa,0.15,0.002,0.031,Probe,0.314,0.93,7.0,0.043
+Qwen2.5-14B-Instruct,triviaqa,0.6,0.981,0.948,UE-ent,0.953,0.301,69.9,0.073
+Qwen2.5-14B-Instruct,nq,0.3,0.137,0.109,XR,0.288,0.946,5.4,0.047
+Qwen2.5-14B-Instruct,popqa,0.24,0.014,0.142,Probe,0.448,0.833,16.7,0.063
