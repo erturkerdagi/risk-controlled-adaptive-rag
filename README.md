@@ -2,7 +2,7 @@
 
 Code and results for the paper
 
-> E. Erdağı, *A Risk-Controlled Three-Way Method for Adaptive Retrieval-Augmented Generation in Large Language Models*. Submitted to *Expert Systems with Applications*.
+> E. Erdağı, *A Risk-Controlled Three-Way Method for Adaptive Retrieval-Augmented Generation in Large Language Models*.
 
 For every question the method chooses one of three actions:
 
